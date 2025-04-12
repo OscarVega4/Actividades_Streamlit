@@ -28,3 +28,7 @@ st.markdown("""
 
 st.header("Solución")
 
+st.title("Actividad 1 - Creación de DataFrames")
+st.write("El objetivo de esta actividad es aprender a crear y visualizar DataFrames usando Python y la biblioteca pandas.")
+
+
