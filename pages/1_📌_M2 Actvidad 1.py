@@ -32,3 +32,18 @@ st.title("Actividad 1 - Creación de DataFrames")
 st.write("El objetivo de esta actividad es aprender a crear y visualizar DataFrames usando Python y la biblioteca pandas.")
 
 
+datos = {
+    'Nombre': ['Ana', 'Luis', 'Carlos', 'Marta'],
+    'Edad': [23, 30, 27, 22],
+    'Ciudad': ['Bogotá', 'Medellín', 'Cali', 'Barranquilla']
+}
+
+df = pd.DataFrame(datos)
+
+st.subheader("Tabla de personas")
+st.dataframe(df)
+
+st.subheader("Estadísticas")
+st.write(df.describe(include='all'))
+
+print(df)
