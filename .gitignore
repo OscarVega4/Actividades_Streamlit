@@ -1,5 +1,12 @@
-# Entornos virtuales
-.venv
+# Ignorar entornos virtuales
+.venv/
+venv/
 
-# Archivos de configuración local
-.streamlit/secrets.toml
+# Ignorar cachés de Python
+__pycache__/
+*.pyc
+
+# Otros archivos grandes o temporales
+*.log
+*.sqlite3
+*.xlsx
