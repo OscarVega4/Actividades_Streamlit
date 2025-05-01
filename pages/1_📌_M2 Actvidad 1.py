@@ -31,11 +31,10 @@ st.header("Solución")
 st.title("Actividad 1 - Creación de DataFrames")
 st.write("El objetivo de esta actividad es aprender a crear y visualizar DataFrames usando Python y la biblioteca pandas.")
 
-
 datos = {
-    'Nombre': ['Ana', 'Luis', 'Carlos', 'Marta'],
+    'Nombre': ['Ana', 'Juliana', 'Miguel', 'Alejandra'],
     'Edad': [23, 30, 27, 22],
-    'Ciudad': ['Bogotá', 'Medellín', 'Cali', 'Barranquilla']
+    'Ciudad': ['Bogotá', 'Medellín', 'Cali', 'Pereira']
 }
 
 df = pd.DataFrame(datos)
@@ -47,3 +46,19 @@ st.subheader("Estadísticas")
 st.write(df.describe(include='all'))
 
 print(df)
+
+libros = {
+    "Título": ["Cien Años de Soledad", "1984", "Don Quijote de la Mancha", "El Principito"],
+    "Autor": ["Gabriel García Márquez", "George Orwell", "Miguel de Cervantes", "Antoine de Saint-Exupéry"],
+    "Año de Publicación": [1967, 1949, 1605, 1943],
+    "Género": ["Realismo Mágico", "Distopía", "Novela de Caballería", "Fábula"]
+}
+
+
+df_libros = pd.DataFrame(libros)
+
+st.subheader("Lista de libros")
+st.dataframe(df_libros)
+
+st.subheader("Estadísticas de los libros")
+st.write(df_libros.describe(include='all'))
