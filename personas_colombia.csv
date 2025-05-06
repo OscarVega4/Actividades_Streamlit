@@ -1,0 +1,101 @@
+nombre_completo,edad,municipio,ingreso_mensual,ocupacion,tipo_vivienda,acceso_internet,fecha_nacimiento
+Nombre 0,54,Leticia,10513921,Emprendedor,Propia,False,1990-01-03 15:22:07.132208
+Nombre 1,17,Manizales,5925103,Agricultor,Otra,True,1991-08-12 15:22:07.132221
+Nombre 2,37,Tunja,11458925,Emprendedor,Otra,True,1983-10-21 15:22:07.132225
+Nombre 3,19,Tunja,9016431,Médico,Otra,True,1973-01-25 15:22:07.132228
+Nombre 4,28,Tunja,3231388,Agricultor,Alquilada,True,1955-05-29 15:22:07.132232
+Nombre 5,43,Medellín,8634425,Pensionado,Otra,True,1952-11-17 15:22:07.132235
+Nombre 6,37,Santa Marta,8736333,Ingeniero,Alquilada,False,1987-10-29 15:22:07.132238
+Nombre 7,61,Manizales,10741475,Emprendedor,Propia,False,1993-09-14 15:22:07.132242
+Nombre 8,57,Manizales,8901148,Desempleado,Otra,False,1952-05-25 15:22:07.132247
+Nombre 9,40,Puerto Inírida,6337746,Desempleado,Otra,True,1971-03-06 15:22:07.132250
+Nombre 10,26,Cali,9117723,Pensionado,Alquilada,True,1972-08-14 15:22:07.132254
+Nombre 11,68,Villavicencio,2989402,Docente,Propia,False,1959-12-09 15:22:07.132258
+Nombre 12,23,Tunja,1859315,Agricultor,Alquilada,True,1991-03-15 15:22:07.132261
+Nombre 13,42,Cartagena,9352576,Estudiante,Otra,False,1985-12-31 15:22:07.132264
+Nombre 14,19,Yopal,3478243,Desempleado,Propia,False,1986-06-10 15:22:07.132267
+Nombre 15,75,Santa Marta,2070674,Ingeniero,Propia,True,2003-04-28 15:22:07.132271
+Nombre 16,27,Barranquilla,1669712,Obrero,Propia,False,1995-10-03 15:22:07.132274
+Nombre 17,48,Barranquilla,9517697,Ingeniero,Otra,True,2003-04-19 15:22:07.132278
+Nombre 18,68,Manizales,10426617,Docente,Otra,False,2003-11-12 15:22:07.132281
+Nombre 19,56,Manizales,11036287,Agricultor,Otra,False,1984-09-29 15:22:07.132284
+Nombre 20,19,Quibdó,9136146,Agricultor,Otra,True,1953-02-22 15:22:07.132287
+Nombre 21,38,Tunja,2580511,Pensionado,Otra,False,1999-03-16 15:22:07.132290
+Nombre 22,41,Puerto Inírida,10155004,Docente,Propia,False,1976-06-08 15:22:07.132293
+Nombre 23,39,Leticia,7530223,Comerciante,Alquilada,True,1966-08-23 15:22:07.132297
+Nombre 24,24,Puerto Inírida,11141669,Docente,Alquilada,True,1987-04-27 15:22:07.132300
+Nombre 25,19,Leticia,7658098,Estudiante,Propia,True,2009-06-20 15:22:07.132303
+Nombre 26,23,Quibdó,1914904,Pensionado,Alquilada,False,1959-04-03 15:22:07.132306
+Nombre 27,33,Cali,5814059,Agricultor,Alquilada,True,1969-01-08 15:22:07.132309
+Nombre 28,51,Cali,9561565,Desempleado,Propia,True,1959-02-26 15:22:07.132312
+Nombre 29,70,Santa Marta,8662337,Agricultor,Alquilada,True,1956-07-05 15:22:07.132315
+Nombre 30,23,Leticia,4379799,Desempleado,Propia,True,1962-12-28 15:22:07.132318
+Nombre 31,64,Cartagena,5176090,Médico,Otra,False,1965-01-09 15:22:07.132321
+Nombre 32,40,Leticia,4810523,Docente,Alquilada,True,1996-03-12 15:22:07.132323
+Nombre 33,53,Medellín,6636429,Agricultor,Otra,True,1985-04-03 15:22:07.132327
+Nombre 34,16,Medellín,4511235,Ingeniero,Propia,False,1981-06-21 15:22:07.132330
+Nombre 35,26,Cali,3066095,Ingeniero,Propia,False,1981-01-03 15:22:07.132333
+Nombre 36,24,Cartagena,11216614,Obrero,Propia,True,1997-08-14 15:22:07.132337
+Nombre 37,48,Puerto Inírida,1746030,Desempleado,Otra,False,1952-05-21 15:22:07.132340
+Nombre 38,26,Yopal,10864324,Docente,Propia,True,1981-12-17 15:22:07.132343
+Nombre 39,25,Yopal,4618356,Comerciante,Otra,True,1979-07-19 15:22:07.132347
+Nombre 40,59,Medellín,9218919,Ingeniero,Otra,False,1981-06-24 15:22:07.132350
+Nombre 41,41,Villavicencio,11607585,Pensionado,Alquilada,False,1973-01-08 15:22:07.132353
+Nombre 42,75,Puerto Inírida,11817637,Emprendedor,Otra,True,1971-09-14 15:22:07.132357
+Nombre 43,38,Barranquilla,3230935,Comerciante,Otra,True,1964-12-08 15:22:07.132360
+Nombre 44,22,Quibdó,10901334,Obrero,Otra,True,1994-08-10 15:22:07.132364
+Nombre 45,24,Manizales,6763659,Desempleado,Alquilada,True,2000-06-17 15:22:07.132367
+Nombre 46,72,Medellín,11663012,Pensionado,Propia,False,1964-05-02 15:22:07.132370
+Nombre 47,72,Cartagena,11703570,Agricultor,Propia,False,1998-09-23 15:22:07.132374
+Nombre 48,57,Quibdó,2948475,Comerciante,Propia,False,1965-08-23 15:22:07.132377
+Nombre 49,68,Villavicencio,7834702,Desempleado,Propia,False,1987-07-07 15:22:07.132380
+Nombre 50,39,Buenaventura,10391790,Emprendedor,Alquilada,False,1973-01-13 15:22:07.132383
+Nombre 51,36,Cartagena,8939864,Ingeniero,Propia,True,1992-12-07 15:22:07.132386
+Nombre 52,60,Quibdó,11939686,Emprendedor,Otra,False,1958-05-07 15:22:07.132390
+Nombre 53,40,Buenaventura,5711120,Docente,Alquilada,True,1963-02-28 15:22:07.132393
+Nombre 54,43,Manizales,7076603,Estudiante,Alquilada,False,2008-08-26 15:22:07.132396
+Nombre 55,38,Manizales,1579995,Emprendedor,Propia,True,1955-05-24 15:22:07.132399
+Nombre 56,42,Cartagena,9884182,Comerciante,Alquilada,False,2005-10-31 15:22:07.132402
+Nombre 57,40,Leticia,2524425,Obrero,Alquilada,True,1978-12-16 15:22:07.132405
+Nombre 58,44,Barranquilla,6046129,Agricultor,Otra,True,1972-04-23 15:22:07.132408
+Nombre 59,35,Medellín,2251714,Ingeniero,Alquilada,False,2007-11-15 15:22:07.132411
+Nombre 60,20,Buenaventura,3821235,Estudiante,Alquilada,True,2003-06-24 15:22:07.132414
+Nombre 61,53,Bogotá,6924947,Estudiante,Alquilada,False,1977-08-06 15:22:07.132417
+Nombre 62,21,Leticia,6783492,Estudiante,Propia,False,1985-08-14 15:22:07.132420
+Nombre 63,17,Manizales,4172051,Pensionado,Propia,False,1990-01-17 15:22:07.132424
+Nombre 64,44,Medellín,8965690,Pensionado,Otra,True,1966-03-12 15:22:07.132427
+Nombre 65,63,Cartagena,1739402,Emprendedor,Otra,True,1951-05-08 15:22:07.132430
+Nombre 66,17,Villavicencio,2413724,Obrero,Otra,True,2006-12-11 15:22:07.132434
+Nombre 67,64,Villavicencio,9868773,Médico,Otra,True,1974-09-08 15:22:07.132437
+Nombre 68,32,Santa Marta,3988608,Pensionado,Propia,False,1971-08-25 15:22:07.132440
+Nombre 69,27,Buenaventura,6189166,Pensionado,Propia,True,1982-09-25 15:22:07.132443
+Nombre 70,69,Cali,4568188,Agricultor,Alquilada,True,1998-11-07 15:22:07.132446
+Nombre 71,31,Puerto Inírida,3080194,Obrero,Alquilada,True,1966-11-09 15:22:07.132449
+Nombre 72,20,Yopal,7268986,Médico,Otra,False,2008-01-18 15:22:07.132452
+Nombre 73,33,Cartagena,3578797,Médico,Otra,True,1965-11-30 15:22:07.132455
+Nombre 74,65,Santa Marta,5932979,Médico,Alquilada,False,1983-05-21 15:22:07.132458
+Nombre 75,57,Yopal,915352,Estudiante,Otra,False,1960-12-03 15:22:07.132461
+Nombre 76,73,Yopal,1892265,Desempleado,Alquilada,False,2001-03-15 15:22:07.132464
+Nombre 77,31,Barranquilla,3175774,Desempleado,Otra,False,1977-01-05 15:22:07.132468
+Nombre 78,39,Barranquilla,11571158,Comerciante,Propia,True,1995-02-12 15:22:07.132471
+Nombre 79,58,Puerto Inírida,3999769,Desempleado,Alquilada,False,2004-07-23 15:22:07.132474
+Nombre 80,35,Bogotá,11388226,Médico,Alquilada,True,1957-01-25 15:22:07.132477
+Nombre 81,37,Barranquilla,7804502,Comerciante,Otra,True,1994-12-07 15:22:07.132480
+Nombre 82,47,Villavicencio,4860129,Médico,Propia,False,1973-07-23 15:22:07.132483
+Nombre 83,27,Tunja,9919654,Docente,Alquilada,False,1966-10-27 15:22:07.132486
+Nombre 84,38,Villavicencio,4524592,Pensionado,Propia,True,1997-04-15 15:22:07.132489
+Nombre 85,44,Manizales,7894911,Obrero,Propia,False,1988-04-07 15:22:07.132492
+Nombre 86,27,Medellín,1365801,Pensionado,Otra,True,1958-03-29 15:22:07.132495
+Nombre 87,58,Barranquilla,888862,Comerciante,Alquilada,True,1996-05-29 15:22:07.132499
+Nombre 88,75,Puerto Inírida,4721660,Docente,Otra,True,1979-01-02 15:22:07.132502
+Nombre 89,51,Tunja,10806488,Agricultor,Propia,True,2005-06-05 15:22:07.132505
+Nombre 90,65,Yopal,1651634,Comerciante,Propia,False,2007-09-27 15:22:07.132508
+Nombre 91,24,Quibdó,11836636,Estudiante,Otra,True,1968-12-04 15:22:07.132510
+Nombre 92,51,Leticia,6770883,Ingeniero,Otra,True,2004-02-04 15:22:07.132512
+Nombre 93,52,Quibdó,7922899,Desempleado,Alquilada,False,2003-06-25 15:22:07.132514
+Nombre 94,21,Quibdó,6007647,Estudiante,Alquilada,False,2000-04-28 15:22:07.132516
+Nombre 95,40,Quibdó,1398486,Estudiante,Alquilada,False,1974-10-27 15:22:07.132518
+Nombre 96,45,Buenaventura,3970248,Emprendedor,Propia,True,1991-02-03 15:22:07.132519
+Nombre 97,21,Barranquilla,9698194,Agricultor,Otra,False,1997-03-28 15:22:07.132521
+Nombre 98,36,Medellín,6288235,Docente,Alquilada,False,1987-07-10 15:22:07.132523
+Nombre 99,44,Leticia,10105907,Desempleado,Propia,False,1996-02-12 15:22:07.132525
